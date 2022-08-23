@@ -1,3 +1,3 @@
-my first readme
+first readme
 
-My Name is Deborah, this is my second update to the readme file in the main branch.
+this is the second update to the readme file in the main branch.
